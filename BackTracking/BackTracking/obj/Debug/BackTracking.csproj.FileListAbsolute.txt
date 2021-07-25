@@ -1,0 +1,7 @@
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\BackTracking\BackTracking\bin\Debug\BackTracking.exe.config
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\BackTracking\BackTracking\bin\Debug\BackTracking.exe
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\BackTracking\BackTracking\bin\Debug\BackTracking.pdb
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\BackTracking\BackTracking\obj\Debug\BackTracking.csprojAssemblyReference.cache
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\BackTracking\BackTracking\obj\Debug\BackTracking.csproj.CoreCompileInputs.cache
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\BackTracking\BackTracking\obj\Debug\BackTracking.exe
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\BackTracking\BackTracking\obj\Debug\BackTracking.pdb

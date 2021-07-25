@@ -1,0 +1,7 @@
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StarPattern\StarPattern\bin\Debug\StarPattern.exe.config
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StarPattern\StarPattern\bin\Debug\StarPattern.exe
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StarPattern\StarPattern\bin\Debug\StarPattern.pdb
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StarPattern\StarPattern\obj\Debug\StarPattern.csproj.CoreCompileInputs.cache
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StarPattern\StarPattern\obj\Debug\StarPattern.exe
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StarPattern\StarPattern\obj\Debug\StarPattern.pdb
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StarPattern\StarPattern\obj\Debug\StarPattern.csprojAssemblyReference.cache

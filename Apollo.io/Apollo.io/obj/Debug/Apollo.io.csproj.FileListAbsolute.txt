@@ -1,0 +1,7 @@
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\Apollo.io\Apollo.io\bin\Debug\Apollo.io.exe.config
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\Apollo.io\Apollo.io\bin\Debug\Apollo.io.exe
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\Apollo.io\Apollo.io\bin\Debug\Apollo.io.pdb
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\Apollo.io\Apollo.io\obj\Debug\Apollo.io.csprojAssemblyReference.cache
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\Apollo.io\Apollo.io\obj\Debug\Apollo.io.csproj.CoreCompileInputs.cache
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\Apollo.io\Apollo.io\obj\Debug\Apollo.io.exe
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\Apollo.io\Apollo.io\obj\Debug\Apollo.io.pdb

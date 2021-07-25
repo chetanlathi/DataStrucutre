@@ -1,0 +1,7 @@
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StringOperation\StringOperation\bin\Debug\StringOperation.exe.config
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StringOperation\StringOperation\bin\Debug\StringOperation.exe
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StringOperation\StringOperation\bin\Debug\StringOperation.pdb
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StringOperation\StringOperation\obj\Debug\StringOperation.csprojAssemblyReference.cache
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StringOperation\StringOperation\obj\Debug\StringOperation.csproj.CoreCompileInputs.cache
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StringOperation\StringOperation\obj\Debug\StringOperation.exe
+C:\A-Chetan-Personal\Personal\Documents\Microsoft Azure\DataStrucutre\StringOperation\StringOperation\obj\Debug\StringOperation.pdb
